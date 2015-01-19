@@ -49,6 +49,7 @@ public class VentanaAhorcado extends javax.swing.JFrame {
         }else{//la letra NO esta en la palabra oculta
         numeroFallos++;
         jLabel2.setText(String.valueOf(numeroFallos));
+        
         }
     }
     
